@@ -85,9 +85,9 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 # Local
-theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
 # Remote
-# remote_theme: hydecorp/hydejack@v9
+remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
